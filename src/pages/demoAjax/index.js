@@ -19,7 +19,7 @@ class DemoAjax extends Component {
   };
 
   state = {
-    githubUsername: "guoqing2013"
+    githubUsername: "fizz1994"
   };
 
   constructor() {
